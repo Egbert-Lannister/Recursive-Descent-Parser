@@ -1,5 +1,7 @@
 # Recursive-Descent Parser
 
+[中文阅读](README_CN.md)
+
 ## 1. Project Overview
 
 Building on the lexical-analysis results of Lab1, this project implements a **recursive-descent parser** for a mini-C language subset.  
