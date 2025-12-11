@@ -137,6 +137,7 @@
     <Text Include="..\..\Group8_lab1\Group8_lab1\token_analysis_result.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="README.md" />
     <None Include="README_CN.md" />
   </ItemGroup>

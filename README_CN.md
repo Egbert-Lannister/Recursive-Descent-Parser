@@ -104,7 +104,7 @@
       printTree(root);
       return 0;
   }
-````
+    ```
 
 * `tokens.txt`
   来自 Lab1 的 token 输出文件，是本项目的输入。

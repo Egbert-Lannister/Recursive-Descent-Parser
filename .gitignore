@@ -1,2 +1,15 @@
 .vs/
 *.ipch
+x64
+.vs
+Lab2/
+Lab2.sln
+Debug/
+Release/
+*.obj
+*.pdb
+*.lib
+*.exe
+*.dll
+*.log
+node_modules/
